@@ -60,9 +60,11 @@ a.   KVL:
 <img width="939" height="1280" alt="KVL" src="https://github.com/user-attachments/assets/3fb3afbe-77d0-4e50-b6ff-d5b49956df69" />
 <img width="1280" height="653" alt="KVL(1)" src="https://github.com/user-attachments/assets/05d6c7ef-22da-4a97-a46c-90fc1e32b604" />
 
+
 b.  KCL:
 
 <img width="1280" height="1232" alt="KCL" src="https://github.com/user-attachments/assets/315b4dda-08a3-4dae-8673-6627ee89fff1" />
+
 
 Tabulation:
 
@@ -70,9 +72,11 @@ a.   KVL:
  
 <img width="1280" height="817" alt="KVL TAB" src="https://github.com/user-attachments/assets/e7643a90-ea96-494a-b1bb-0ffc5b22bb52" />
 
+
 b.  KCL:
 
 <img width="1280" height="779" alt="KCL TAB" src="https://github.com/user-attachments/assets/9246ce13-4e04-4034-8a3a-deb39b8c1404" />
+
 
 RESULT:
 
