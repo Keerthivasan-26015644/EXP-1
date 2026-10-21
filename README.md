@@ -42,9 +42,11 @@ CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
 a.   KVL:
+
 <img width="651" height="507" alt="image" src="https://github.com/user-attachments/assets/7d6e90d9-d6d1-4d93-ae34-ba6887c2a362" />
 
 b.  KCL:
+
  <img width="651" height="507" alt="image" src="https://github.com/user-attachments/assets/7d6e90d9-d6d1-4d93-ae34-ba6887c2a362" />
 
 Calculation:
